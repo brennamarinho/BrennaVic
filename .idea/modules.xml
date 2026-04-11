@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Atividade.java/Aluno/Aluno.iml" filepath="$PROJECT_DIR$/Atividade.java/Aluno/Aluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade.java/Atividade.iml" filepath="$PROJECT_DIR$/Atividade.java/Atividade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Commerce/Commerce.iml" filepath="$PROJECT_DIR$/Commerce/Commerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade.java/Curso/Curso.iml" filepath="$PROJECT_DIR$/Atividade.java/Curso/Curso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OBJETOO/EXECAO/EXECAO.iml" filepath="$PROJECT_DIR$/OBJETOO/EXECAO/EXECAO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWolrd.java/HelloWolrd.java.iml" filepath="$PROJECT_DIR$/HelloWolrd.java/HelloWolrd.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld.java/HelloWorld.java.iml" filepath="$PROJECT_DIR$/HelloWorld.java/HelloWorld.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWolrd.java/HoraDoSistema/HoraDoSistema.iml" filepath="$PROJECT_DIR$/HelloWolrd.java/HoraDoSistema/HoraDoSistema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWolrd.java/NotaEh/NotaEh.iml" filepath="$PROJECT_DIR$/HelloWolrd.java/NotaEh/NotaEh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OBJETOO/OBJETOO.iml" filepath="$PROJECT_DIR$/OBJETOO/OBJETOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inu/execucao/src/Objeto.iml" filepath="$PROJECT_DIR$/inu/execucao/src/Objeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramaDuo/Operacoes/Operacoes.iml" filepath="$PROJECT_DIR$/ProgramaDuo/Operacoes/Operacoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Soma/Soma.iml" filepath="$PROJECT_DIR$/Soma/Soma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Commerce/cliente/cliente.iml" filepath="$PROJECT_DIR$/Commerce/cliente/cliente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inu/execucao/src/execucao.iml" filepath="$PROJECT_DIR$/inu/execucao/src/execucao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade.java/execucaoo/execucaoo.iml" filepath="$PROJECT_DIR$/Atividade.java/execucaoo/execucaoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Commerce/itemvenda/itemvenda.iml" filepath="$PROJECT_DIR$/Commerce/itemvenda/itemvenda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Commerce/main/main.iml" filepath="$PROJECT_DIR$/Commerce/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matriz/matriz.iml" filepath="$PROJECT_DIR$/matriz/matriz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Commerce/venda/venda.iml" filepath="$PROJECT_DIR$/Commerce/venda/venda.iml" />
+    </modules>
+  </component>
+</project>
