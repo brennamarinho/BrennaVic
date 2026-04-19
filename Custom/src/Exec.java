@@ -18,7 +18,17 @@ public class Exec {
         l2.setValorTotal(23.3);
         System.out.println(l2.getValorTotal());
 
+        Pedido p1 = new Pedido();
+        p1.setValorTotal(33.5);
+        System.out.println(p1.getValorTotal());
 
+        ItemCarrinho i1 = new ItemCarrinho();
+        i1.setPrecoUnitario(33.9);
+        System.out.println(i1.getPrecoUnitario());
+
+        Build b1 = new Build();
+        b1.setCompativel(true);
+        System.out.println(b1.getCompativel());
 
     }
 
