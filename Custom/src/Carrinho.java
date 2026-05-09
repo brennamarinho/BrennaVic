@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Carrinho {
-    private long idcar;
+    private int id;
     private Double valorTotal;
 
 
@@ -27,6 +27,7 @@ public class Carrinho {
         for (ItemCarrinho item : itens) {
             total = total + item.getSubtotal();
         }
+        this.valorTotal = total;
         return total;
     }
 
@@ -34,13 +35,13 @@ public class Carrinho {
 
 
 
-    public void setIdcar(long idcar) {
-        this.idcar = idcar;
+    public void setId(int id) {
+        this.id = id;
 
     }
-    public long getIdcar() {
+    public int getId() {
 
-        return idcar;
+        return id;
     }
 
     public void setValorTotal(double valorTotal) {
@@ -54,5 +55,10 @@ public class Carrinho {
     public Carrinho() {
 
     }
+
+    public List<ItemCarrinho> getItens() {
+        return itens;
+    }
+
 
 }

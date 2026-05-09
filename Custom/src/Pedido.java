@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Pedido {
-    private long id;
+    private int id;
     private int data;
     private String status;
     private Double valorTotal;
@@ -46,17 +46,20 @@ public class Pedido {
         return total;
     }
 
+    public Pedido(int id, String status) {
+        this.id = id;
+        this.status = status;
+    }
 
 
 
 
-
-    public void setId(long id) {
+    public void setId(int id) {
         this.id = id;
 
     }
 
-    public long getId() {
+    public int getId() {
 
         return id;
     }
@@ -84,6 +87,9 @@ public class Pedido {
     public Double getValorTotal(){
         return valorTotal;
     }
+
+
+
 
 
 
