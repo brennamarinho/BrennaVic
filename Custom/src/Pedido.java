@@ -11,6 +11,16 @@ public class Pedido {
 
     }
 
+    private Pagamento pagamento;
+    public Pagamento getPagamento() {
+        return pagamento;
+    }
+    public void setPagamento(Pagamento pagamento) {
+        this.pagamento = pagamento;
+        pagamento.setPedido(this); // eh tipo esse pagamento pertence a este pedido. o pagamento que eu vou receber pertence a esse pedido(setpedido(this))
+    }
+
+
 
 
 
